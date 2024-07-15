@@ -3,9 +3,9 @@ public class Team {
         System.out.println("nayeem");
     }
     public void preetham(){
-    System.out.println("preetham");
+        System.out.println("preetham");
     }
-    public void asthik()[
-    System.out.println("asthik");
-    ]
+    public void asthik(){
+        System.out.println("asthik");
+    }
 }

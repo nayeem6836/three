@@ -13,5 +13,11 @@ public class App {
         fruit1.apple();
         Fruit fruit2 = new Fruit();
         fruit2.bananna();
+        Team team1 = new Team();
+        team1.nayeem();
+        Team team2 = new Team();
+        team2.preetham();
+        Team team3 = new Team();
+        teaam3.asthik();
         }
 }
